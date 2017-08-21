@@ -1,1 +1,1 @@
-echo "I'm master (develop)"
+echo "I'm feature"
